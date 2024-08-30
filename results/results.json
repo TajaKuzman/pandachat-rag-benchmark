@@ -1,0 +1,66 @@
+[
+  {
+    "eval_scenario": "aqa-sl",
+    "system": "bge-m3",
+    "evaluated-top-k": 2,
+    "time_per_question (s)": 0.5793855849978993,
+    "correct_retrieval_count": 206,
+    "correct_retrieval_per": 100.0
+  },
+  {
+    "eval_scenario": "aqa-sl",
+    "system": "gte-multilingual-base",
+    "evaluated-top-k": 2,
+    "time_per_question (s)": 0.3100063349436788,
+    "correct_retrieval_count": 204,
+    "correct_retrieval_per": 99.02912621359224
+  },
+  {
+    "eval_scenario": "aqa-sl",
+    "system": "multilingual-e5-base",
+    "evaluated-top-k": 2,
+    "time_per_question (s)": 0.28573827141696967,
+    "correct_retrieval_count": 205,
+    "correct_retrieval_per": 99.51456310679612
+  },
+  {
+    "eval_scenario": "aqa-sl",
+    "system": "multilingual-e5-large",
+    "evaluated-top-k": 2,
+    "time_per_question (s)": 0.5838590316402102,
+    "correct_retrieval_count": 206,
+    "correct_retrieval_per": 100.0
+  },
+  {
+    "eval_scenario": "aqa-sl",
+    "system": "multilingual-e5-small",
+    "evaluated-top-k": 2,
+    "time_per_question (s)": 0.15391959032966096,
+    "correct_retrieval_count": 203,
+    "correct_retrieval_per": 98.54368932038835
+  },
+  {
+    "eval_scenario": "aqa-sl",
+    "system": "text-embedding-3-large",
+    "evaluated-top-k": 2,
+    "time_per_question (s)": 1.1900231629899405,
+    "correct_retrieval_count": 204,
+    "correct_retrieval_per": 99.02912621359224
+  },
+  {
+    "eval_scenario": "aqa-sl",
+    "system": "text-embedding-3-small",
+    "evaluated-top-k": 2,
+    "time_per_question (s)": 0.6923161988119477,
+    "correct_retrieval_count": 205,
+    "correct_retrieval_per": 99.51456310679612
+  },
+  {
+    "eval_scenario": "aqa-sl",
+    "system": "text-embedding-ada-002",
+    "evaluated-top-k": 2,
+    "time_per_question (s)": 0.6312838966406665,
+    "correct_retrieval_count": 203,
+    "correct_retrieval_per": 98.54368932038835
+  }
+]
