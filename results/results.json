@@ -78,5 +78,13 @@
     "time_per_question (s)": 0.6412383144341626,
     "correct_retrieval_count": 205,
     "correct_retrieval_per": 99.51456310679612
+  },
+  {
+    "eval_scenario": "aqa-sl",
+    "system": "qdrant-docker-openai-embedding-3-small",
+    "evaluated-top-k": 2,
+    "time_per_question (s)": 0.39568439154949003,
+    "correct_retrieval_count": 205,
+    "correct_retrieval_per": 99.51456310679612
   }
 ]
