@@ -101,3 +101,17 @@ The submissions are evaluated using the following code with the following argume
 ```python
 python evaluate.py "systems/embedding-models-evaluation" "2"
 ```
+
+## Citing
+
+To refer to the PandaChat-RAG-sl dataset or this repository, please cite [this paper](https://is.ijs.si/wp-content/uploads/2024/10/SCAI_2024_paper_0538.pdf):
+```
+@inproceedings{Kuzman_Pavleska_Rupnik_Cigoj_2024,
+title={PandaChat-RAG: towards the benchmark for Slovenian RAG applications},
+url={https://is.ijs.si/wp-content/uploads/2024/11/IS2024_Complete.pdf},
+publisher={Institut „Jožef Stefan“},
+author={Kuzman, Taja and Pavleska, Tanja and Rupnik, Urban and Cigoj, Primož},
+year={2024},
+pages={7–10} }
+
+```
